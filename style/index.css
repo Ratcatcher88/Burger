@@ -4,6 +4,8 @@
 }
 
 body {
+    max-width:1920px;
+    max-height:2030px;
     font-family: 'Nunito Sans', sans-serif;
 
 }
